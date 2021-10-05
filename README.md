@@ -1,3 +1,3 @@
 # BSW-Project-Portfolio
 Brandon Williams Project Portfolio
-1. SAT Scores in New York City
+1. SAT Score Correlations in New York City

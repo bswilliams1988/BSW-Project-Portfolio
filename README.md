@@ -4,3 +4,4 @@ Brandon Williams Project Portfolio
 2. Most Popular Data Science Topics to Learn
 3. Naive Bayes Spam Filter
 4. Bike Rental Predictions
+5. Titanic Kaggle Competition
